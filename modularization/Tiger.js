@@ -8,5 +8,5 @@ class Tiger {
     }
   }
 
-  // TODO 1
+  // TODO 1 : Ekspor class Tiger agar dapat digunakan pada berkas JavaScript lain.
     module.exports = Tiger;

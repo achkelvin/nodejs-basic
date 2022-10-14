@@ -1,5 +1,5 @@
-const Tiger = require('./Tiger') // TODO 3
-const Wolf = require('./Wolf') // TODO 4
+const Tiger = require('./Tiger') // TODO 3 : Import class Tiger dari berkas Tiger.js.
+const Wolf = require('./Wolf') // TODO 4 : Import class Wolf dari berkas Wolf.js.
  
 const fighting = (tiger, wolf) => {
   if(tiger.strength > wolf.strength) {

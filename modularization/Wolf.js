@@ -8,5 +8,5 @@ class Wolf {
     }
   }
 
-  // TODO 2
+  // TODO 2 : Ekspor class Wolf agar dapat digunakan pada berkas JavaScript lain.
     module.exports = Wolf;
